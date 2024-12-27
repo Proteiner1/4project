@@ -88,7 +88,7 @@
 </ol>
 
 <h2>📊 Посмотреть дашборд:</h2>
-[Открыть дашборд Tableau](https://public.tableau.com/app/profile/alexey.nemchenkov/viz/retail1_17341857574390/sheet5)
+https://public.tableau.com/app/profile/alexey.nemchenkov/viz/retail1_17341857574390/sheet5
 
 <h2>💡 Практическое значение:</h2>
 <p>
